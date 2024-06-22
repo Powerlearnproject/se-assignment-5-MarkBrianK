@@ -27,10 +27,43 @@ Answer the following questions based on your understanding of the installation a
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
+      Update VS Code:
+
+      Upon first launching VS Code, it might prompt you to update to the latest version if one is available.
+
+      Install Essential Extensions:
+
+         Go to the Extensions view by clicking the Extensions icon on the Activity Bar or pressing Ctrl+Shift+X.
+         Search for and install extensions such as:
+            Prettier - Code formatter
+            ESLint - Linting JavaScript code
+            Live Server - Launch a development local server
+            GitLens - Git supercharged
+      Adjust Settings:
+
+         Open the Settings view by going to File > Preferences > Settings or pressing Ctrl+,.
+         Common settings to adjust:
+         Theme: Choose a theme that suits your preference (e.g., Dark+, Light+).
+         Font Size: Adjust the font size for the editor.
+         Auto Save: Enable auto-saving of files.
 
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+       Main Components of the VS Code User Interface:
+
+         Activity Bar:
+
+            Located on the far left side, it provides access to different views such as Explorer, Search, Source Control, Run and Debug, and Extensions.
+         Side Bar:
+
+            Displays different panels based on the view selected in the Activity Bar, such as the file explorer, search results, or version control information.
+         Editor Group:
+
+            The main area where you edit your files. You can have multiple editor groups side by side or stacked.
+         Status Bar:
+
+            Located at the bottom of the window, it shows information about the current project, such as branch name, encoding, line endings, and file type.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
