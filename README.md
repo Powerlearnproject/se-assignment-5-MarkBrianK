@@ -12,10 +12,21 @@ Answer the following questions based on your understanding of the installation a
 
       Open the Official Visual sttudio code website in your browser https://code.visualstudio.com/.
       Click the dowload button and choose windows installler package.
+      Once Dowload is complete, locate and click the file which will open te installer.
+      Click on the "Install" button to begin the installation process.
+      Once the installation is complete, you can launch VS Code immediately by checking the "Launch Visual Studio Code" option and clicking "Finish".
+
+      Prerequisites:
+
+         Windows 11 operating system.
+         Administrator rights to install new software.
+
+
 
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+
 
 
 3. User Interface Overview:
